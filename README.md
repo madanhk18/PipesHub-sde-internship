@@ -1,4 +1,4 @@
-##Step wise explanation of Code that is written
+## Step wise explanation of Code that is written
 <p>
 - Implemented a time check using Calendar and IST time zone. <br>
 - Configured working hours: 10 AM to 1 PM IST <br>
